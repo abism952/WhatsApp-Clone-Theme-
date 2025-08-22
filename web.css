@@ -1,0 +1,189 @@
+.header{
+    background-color:black;
+    height: 200px;
+}
+.header_top{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:0px 20px ;
+}
+.whatsapp{
+    color:white;
+}
+.icon_color{
+    color: white;
+}
+.header_middle{
+background-color: #686161;
+height: 40px;
+display:flex;
+align-items: center;
+padding:0px 20px ;
+border-radius: 30px;
+}
+.icon_circle{
+   color: conic-gradient( blue, magenta ) ;
+}
+.searchtext{
+    color:rgb(255, 254, 254);
+}
+.header_last{
+    height: 70px;
+    display:flex;
+    align-items: center;
+    padding: 0px 20px;
+}
+.alltext{
+    color: white;
+    background-color: gray;
+    margin-right:10px;
+    border-radius:10px;
+    padding: 5px;
+}
+.allunreadtext{
+    color:white;
+    background-color: gray;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.allgroups{
+    color:white;
+    background-color: gray;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.content{
+    background-color: black;
+}
+.data{
+    text-align:center;
+    padding:20px 20px;
+    display:flex;
+    justify-content: space-around;
+}
+.image{
+    height: 40px;
+    width:40px;
+    border-radius: 50px;
+    margin-top:-10px ;
+}
+.name{
+    color:white;
+    margin: 0;
+}
+.text_hello{
+    color:rgb(149, 144, 144);
+}
+.time{
+    color:white;
+    font-size:12px ;
+}
+.chat_center{
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+    justify-content:center;
+    width: 90%;
+    margin-top: -10px;
+}
+.footer{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px  20px;
+}
+.icon_messege{
+    color: white;
+}
+.chats{
+    color: white;
+    margin-top: 5px;
+    margin-left:-10px ;
+}
+.display_coloumn{
+    display: flex;
+    flex-direction: column;
+}
+.heading{
+    color: white;
+    margin-left: 10px;
+
+}
+.text_align{
+    display: flex;
+    justify-content: space-between;
+
+}
+.icon_margin{
+    margin-right:20px ;
+    align-content: center;
+
+}
+.search_icon{
+    margin-right:20px ;
+}
+.camera_icon{
+    margin-right: 20px;
+}
+.status{
+    color:white;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.image{
+    height: 40px;
+    width:40px;
+    border-radius: 50px;
+    margin-top:-10px ;
+    margin-left: 23px;
+    margin-right: 10px;
+}
+.data2{
+    display: flex;
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+.text_color{
+    color:white;
+    Margin-left:30px;
+}
+.simble{
+    color:lightslategray;
+    font-size: 30px;
+    margin-right: 20px;
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+}
+.text_color2{
+    color:lightslategray;
+    margin-left: 30px;
+}
+.as{
+    color:lightslategray;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.button{
+    margin-left: 30px;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
